@@ -6,8 +6,8 @@ import os
 import urllib.parse as urlparse
 
 # ================= কনফিগারেশন =================
-API_TOKEN = '8528078055:AAF1ZcdA5ZFnn00wQsaGYvP0Wa-FJUSFzYQ'
-ADMIN_ID = 7897443102
+API_TOKEN = '8405621803:AAHOAVRDSP5cmbEiCmitXRbqOmwqe3I0naE'
+ADMIN_ID = 7710861687
 DEFAULT_CHANNELS = ['@todayinstantoffer', '@instantoffertoday', '@MAHIDAdvancePanel']
 
 # ডাটাবেস ইউআরএল (Render এর Environment Variable থেকে নিবে)
